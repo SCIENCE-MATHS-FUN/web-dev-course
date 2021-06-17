@@ -1,0 +1,28 @@
+.body {
+    background-color:floralwhite
+}
+
+.html {
+    text-align: center;
+    background-color: honeydew;
+}
+
+footer {
+    padding: 5px;
+ background-color: lightblue;
+ /* grey color */
+ overflow: hidden;
+font-size: 15px;
+text-align: center;
+    
+    
+}
+
+footer a {
+    display:inline-block;
+    color: royalblue;
+    text-decoration: none;
+    padding: 5px 5px; 
+    
+    
+}
